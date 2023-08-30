@@ -1,0 +1,39 @@
+body {
+    background-image: url(img/85eec838ddcc3e5bfa51c37443c10ee3.jpeg);
+}
+
+#cabecera {
+
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+#cabecera h2 {
+    color: green;
+    text-shadow: 1px 1px white;
+}
+
+#enlaces {
+    padding-left: 40.5%;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    /*border: 5px solid white;*/
+}
+
+#enlaces ul a {
+    text-decoration: none;
+    display: block;
+    background-color: purple;
+
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    padding: 10px;
+    margin-bottom: 50px;
+    border: 1px solid rgba(128, 0, 128, 0.267);
+    box-shadow: 5px 5px black;
+}
